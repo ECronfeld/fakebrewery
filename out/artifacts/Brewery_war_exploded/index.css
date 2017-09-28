@@ -1,0 +1,29 @@
+.content{
+    text-align: center;
+    padding-top: 25%;
+    font-family: 'Dynalight', cursive;
+}
+
+h1{
+    font-size: 70px;
+}
+
+h5{
+    font-size: 30px;
+}
+
+
+.main-page{
+    background: url(oliver-wendel-326840.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+html{
+    height: 100%
+}
+
+.main-page-colors{
+    color: rgb(255,253,170);
+}
